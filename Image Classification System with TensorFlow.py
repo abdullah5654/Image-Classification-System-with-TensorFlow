@@ -1,3 +1,5 @@
+# https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+# Download dataset using this link.
 import tensorflow as tf
 from tensorflow.keras import layers, models
 import matplotlib.pyplot as plt
@@ -131,3 +133,4 @@ predict_image("Enter your image path here.")
 
 # Run this function to use webcam
 # webcam_prediction()
+
